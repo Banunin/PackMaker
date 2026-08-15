@@ -146,7 +146,7 @@ O PackMaker mantém os componentes necessários localmente sempre que possível,
 Clone o repositório:
 
 ```powershell
-git clone https://github.com/seu-usuario/PackMaker.git
+git clone https://github.com/Banunin/PackMaker.git
 ```
 
 Entre na pasta:
@@ -155,7 +155,7 @@ Entre na pasta:
 cd PackMaker
 ```
 
-Execute o PackMaker:
+Extraia e Execute o PackMaker:
 
 ```powershell
 python main.py
