@@ -1,8 +1,6 @@
 # PackMaker
-<div align="center">
 
-<!-- Logo Placeholder: Substitua o link abaixo pela URL do logo oficial do PackMaker -->
-<img src="https://via.placeholder.com/200/24292E/FFFFFF?text=PackMaker+Logo" alt="PackMaker Logo" width="180"/>
+<div align="center">
 
 # PackMaker
 
@@ -11,6 +9,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Beta-blue.svg?style=flat-square)](https://github.com/seu-usuario/PackMaker)
 [![Plataforma](https://img.shields.io/badge/OS-Windows_10_|_11-lightgrey.svg?style=flat-square&logo=windows)](https://github.com/seu-usuario/PackMaker)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Licença](https://img.shields.io/badge/Licença-Consulte-green.svg?style=flat-square)](#licença)
 
 <br>
