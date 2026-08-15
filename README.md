@@ -1,7 +1,4 @@
-# PackMaker
-
 <div align="center">
-
 # PackMaker
 
 **Do código ao instalador com o mínimo de intervenção manual.**  
