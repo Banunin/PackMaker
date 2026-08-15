@@ -1,0 +1,132 @@
+PACKMAKER STANDARD SOURCE-AVAILABLE LICENSE Version 1.0
+
+Copyright (c) 2026 PackMaker project owner. All rights reserved except
+as expressly granted below.
+
+1.  PURPOSE
+
+The source code of PackMaker Standard is made publicly available to
+promote transparency, security review, learning, bug reporting, and
+contributions to the official project.
+
+This license makes the source code available for inspection and for the
+permitted uses described below. It does not grant unrestricted rights to
+redistribute, rebrand, resell, or create competing distributions of
+PackMaker.
+
+2.  PERMITTED USE
+
+Subject to this license, you may:
+
+a)  download, run, and use PackMaker Standard free of charge;
+b)  inspect and study its source code;
+c)  modify the source code for your own private or internal use;
+d)  submit fixes, improvements, and other contributions to the official
+    PackMaker project;
+e)  use PackMaker Standard to build, package, distribute, sell, or
+    otherwise commercialize your own software.
+
+3.  OWNERSHIP OF SOFTWARE CREATED WITH PACKMAKER
+
+This license does not claim ownership of software processed or created
+using PackMaker.
+
+Programs, source code, executables, MSI packages, Setup executables,
+installers, assets, and other software belonging to a PackMaker user
+remain the property of that user or of their respective rights holders.
+
+Using PackMaker Standard to create an installer does not transfer
+ownership, copyright, or other intellectual-property rights in the
+user’s software to the PackMaker project.
+
+4.  RESTRICTIONS
+
+Unless you have prior written permission from the PackMaker project
+owner, you may not:
+
+a)  sell, sublicense, rent, or commercially redistribute PackMaker
+    Standard itself;
+b)  publish or redistribute PackMaker Standard, in original or modified
+    form, as a separate competing product or service;
+c)  rebrand PackMaker Standard, remove its identity, and distribute it
+    as if it were your own product;
+d)  distribute modified versions of PackMaker Standard to third parties;
+e)  use substantial portions of PackMaker Standard source code to create
+    or distribute a substantially similar competing installer-building
+    product;
+f)  remove or intentionally obscure copyright, attribution, license, or
+    other legal notices contained in the source distribution;
+g)  represent an unofficial modified version as an official PackMaker
+    release.
+
+5.  CONTRIBUTIONS
+
+By submitting a contribution to the official PackMaker project, you
+represent that you have the right to submit that contribution.
+
+Unless a separate written agreement applies, you grant the PackMaker
+project owner a perpetual, worldwide, non-exclusive, royalty-free right
+to use, modify, reproduce, distribute, sublicense, and incorporate your
+contribution into free or commercial editions of PackMaker.
+
+6.  PACKMAKER PRO
+
+This license applies only to PackMaker Standard source code explicitly
+distributed under this license.
+
+PackMaker PRO, commercial modules, proprietary components, private
+repositories, branding assets not included under this license,
+license-management systems, and other separately identified commercial
+components are not licensed under this document unless expressly stated
+otherwise.
+
+7.  TRADEMARKS AND BRANDING
+
+This license does not grant permission to use the PackMaker name, logos,
+trademarks, or branding to identify an unofficial product, service, or
+distribution as official or endorsed by the PackMaker project.
+
+Reasonable references stating compatibility with or origin from
+PackMaker are permitted provided they are not misleading.
+
+8.  NO WARRANTY
+
+PACKMAKER STANDARD IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT,
+AVAILABILITY, OR FITNESS FOR A PARTICULAR BUILD OR DISTRIBUTION PURPOSE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS,
+CONTRIBUTORS, AND PROJECT OWNER SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, DATA LOSS, BUILD FAILURE, DISTRIBUTION FAILURE, OR OTHER
+LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE PACKMAKER
+STANDARD.
+
+9.  THIRD-PARTY COMPONENTS
+
+PackMaker may interact with, download, invoke, or bundle third-party
+software. Such third-party software remains subject to its own licenses
+and terms. This license does not replace or override third-party
+licenses.
+
+10. TERMINATION
+
+Your rights under this license terminate automatically if you materially
+violate its terms. Upon termination, you must cease any use or
+distribution that depended on the permissions granted by this license.
+
+11. SEPARATE PERMISSION
+
+Uses not granted by this license may be authorized separately in writing
+by the PackMaker project owner.
+
+12. ENTIRE LICENSE
+
+This document states the permissions granted for the PackMaker Standard
+source code distributed under it. No additional rights are granted by
+implication.
+
+------------------------------------------------------------------------
+
+This is a custom source-available license, not an OSI-approved
+open-source license.
