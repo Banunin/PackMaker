@@ -1,6 +1,5 @@
-<div align="center">
 # PackMaker
-
+<div align="center">
 **Do código ao instalador com o mínimo de intervenção manual.**  
 *Transforme projetos Python e executáveis portáteis em aplicativos e instaladores nativos para Windows de forma automatizada e direta.*
 
