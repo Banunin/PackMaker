@@ -72,7 +72,7 @@ O PackMaker adapta o processo de acordo com a entrada e o formato de saída sele
 
 | Entrada | Saída | Processo |
 | :--- | :--- | :--- |
-| **Projeto Python** | **EXE Portátil** | Prepara o projeto e gera uma aplicação executável para Windows. |
+| **Projeto Python** | **EXE** | Prepara o projeto e gera uma aplicação executável para Windows. |
 | **Projeto Python** | **MSI** | Prepara a aplicação e cria um pacote Windows Installer. |
 | **Projeto Python** | **Setup EXE** | Prepara a aplicação e cria um instalador executável. |
 | **EXE pronto** | **MSI** | Utiliza a aplicação existente e gera um pacote MSI. |
